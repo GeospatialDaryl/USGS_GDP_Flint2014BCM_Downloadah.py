@@ -13,9 +13,14 @@
        Klamath Strategic Habitat Conservation Team
        GIS Analyst
        daryl_van_dyke@fws.gov
+		
+		Update : my local network was timing out overnight.  To KISS 
+		I added a explicit list of all the files.  This py script 
+		('NetCDF_Flint2014_future_list.py') is configured to grab
+		ALL parameters, ALL scenarios - it should be elementary to 
+		copy'n'paste a subset if you'd like.
 
-
-
+  
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
